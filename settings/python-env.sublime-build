@@ -1,0 +1,6 @@
+
+{
+    "cmd": ["/home/qsmsoft/sublimeProject/Django/SpacedRepitation/venv/bin/python3", "-u", "$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "quiet": true
+}
